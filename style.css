@@ -10,12 +10,16 @@ body{
     background-color: black;
     color: white;
 }
+
 a{
     background-color: #b9b9b981;
+    text-decoration: none;
 }
 
 h1{
     text-align: center;
+    background-color: #22d4fd;
+    text-decoration-color: rgb(46, 112, 170);
 }
 
 strong{
@@ -25,7 +29,7 @@ strong{
 
 .apresentacao_links{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .apresentacao_links_link{
@@ -40,9 +44,7 @@ strong{
     color: #000;
     font-family: 'Montserrat', sans-serif;
 }
-div {
-    text-align: center;
-}
+
 p{
     text-align: center;
 }
