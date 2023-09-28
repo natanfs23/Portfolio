@@ -5,13 +5,22 @@
 
 body{
     height: 100vh;
+    text-align: center;
     box-sizing: border-box;
     background-color: black;
     color: white;
 }
+a{
+    background-color: #b9b9b981;
+}
+
+h1{
+    text-align: center;
+}
 
 strong{
     color: #22d4fd;
+   
 }
 
 .apresentacao_links{
@@ -30,4 +39,10 @@ strong{
     text-decoration: none;
     color: #000;
     font-family: 'Montserrat', sans-serif;
-}   
+}
+div {
+    text-align: center;
+}
+p{
+    text-align: center;
+}
